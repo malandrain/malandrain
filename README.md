@@ -1,4 +1,4 @@
 ## About me:
-Glaciologists studying the interaction between fjord and ice front dynamics
+Glaciologists studying what is hidden under the ice and the surface of the frozen ocean. I am recently interrested in Glacial Hazard in the alps and uses the finite element model Elmer/Ice to assess the risk of a potential collapse.
 
-I like drones, sailing boats and open science in the polar regions 🔭
+Other than that, I work with drone photogrammetry, feature tracking on timelapse and satellite data and like to contribute in developping more open science and low tech approach when studying the cryosphere.
